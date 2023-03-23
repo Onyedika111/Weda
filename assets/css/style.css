@@ -423,6 +423,10 @@ font-weight: var(--weight-semiBold);
   display: block;
 }
 
+.search-wrapper .icon-btn > span{
+  color:var(--primary)
+}
+
 .search-field{
   height: 80px;
   line-height: 80px;
